@@ -1361,6 +1361,11 @@
           "description": "%config.branchWhitespaceChar%",
           "default": "-"
         },
+        "git.commitMessageFontFamily": {
+          "type": "string",
+          "default": "",
+          "description": "%config.commitMessageFontFamily%"
+        },
         "git.confirmSync": {
           "type": "boolean",
           "description": "%config.confirmSync%",
