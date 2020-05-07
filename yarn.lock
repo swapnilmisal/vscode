@@ -7012,10 +7012,10 @@ pkg-dir@^3.0.0:
   dependencies:
     find-up "^3.0.0"
 
-playwright-core@=1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.0.0.tgz#34fe68b1a515463d50643e436a13263c44d0378d"
-  integrity sha512-0u6LjEVIo4n58/hQKpU3CaD6iesblvusTupb/pN2TU7SSV3ou4UisFQcsxLpSKP1xDvF7q23FPfEO2lYRX+EuA==
+playwright-core@=1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.0.1.tgz#823b6f1afa16917ffd418f3cec0c14688a985738"
+  integrity sha512-a71FjUDRFqWLG3VBAojVen2TaZiXkuog+ZmI0Nh0+/QndFUbbW3kameOfUTMXFvLUGWx2ipERZx6EQTJMEQDMA==
   dependencies:
     debug "^4.1.1"
     extract-zip "^2.0.0"
@@ -7028,12 +7028,12 @@ playwright-core@=1.0.0:
     rimraf "^3.0.2"
     ws "^6.1.0"
 
-playwright@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.0.0.tgz#c3bd5d861ceb0bcb0c684d4201b92dcd0f81d28b"
-  integrity sha512-xj6Ijz+yaljaHEeOLGxqfFwSxbr4nWOAkP1Yd/XxvF8vD/nevE1jJikH4KkMIi7XyRVlbS6CtrhyjwMFybXqIw==
+playwright@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.0.1.tgz#326d479829a3505799ddc9988cc8decf5a7f8376"
+  integrity sha512-kVTE7uvZ7OcDVOBx7MVArUm2nbzzzpauKV9tuVIAH6vWGsOWbGGALUoTWMzNDzsPPTBJXXmxzC4KgI2zN+kVhw==
   dependencies:
-    playwright-core "=1.0.0"
+    playwright-core "=1.0.1"
 
 plist@^3.0.1:
   version "3.0.1"
